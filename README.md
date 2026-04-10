@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amazon Sentiment Analysis Project
 
 This project provides an automated feedback and sentiment analysis system for Amazon reviews using machine learning.
@@ -73,3 +74,7 @@ This project provides an automated feedback and sentiment analysis system for Am
 4. Click "Run Analysis" to see results
 
 For development, you can modify the code in VS Code and rerun as needed.
+=======
+# Review-Sentiment-Analysis-Project
+End-to-end NLP pipeline that classifies Amazon product review sentiment (Positive/Negative) and predicts star ratings using TF-IDF + Logistic Regression + Random Forest — deployed as an interactive Streamlit web app.
+>>>>>>> 0537936205424b528c05a102681118c1852ceb7c
