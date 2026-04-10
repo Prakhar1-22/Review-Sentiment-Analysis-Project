@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Amazon Sentiment Analysis Project
 
 This project provides an automated feedback and sentiment analysis system for Amazon reviews using machine learning.
